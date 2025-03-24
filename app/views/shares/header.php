@@ -21,7 +21,7 @@
                         <a class="nav-link active" href="#">Sinh Viên</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Học Phần</a>
+                        <a class="nav-link" href="/KTGK/app/views/studysection/index.php">Học Phần</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Đăng Kí</a>
@@ -29,7 +29,7 @@
                 </ul>
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Đăng Nhập</a>
+                        <a class="nav-link" href="/KTGK/app/views/auth/login.php">Đăng Nhập</a>
                     </li>
                 </ul>
             </div>
